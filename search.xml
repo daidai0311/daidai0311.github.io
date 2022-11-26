@@ -52,17 +52,6 @@
     
     
     <entry>
-      <title>我们会有美好的未来</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>bangumis</title>
       <link href="/bangumis/index.html"/>
       <url>/bangumis/index.html</url>
@@ -74,9 +63,9 @@
     
     
     <entry>
-      <title>呆呆的好朋友们的友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>我们会有美好的未来</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -88,6 +77,17 @@
       <title>呆呆blog的标签页</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>呆呆的好朋友们的友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
